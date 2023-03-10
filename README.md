@@ -1,7 +1,8 @@
 
 <p align="center">
 <a href="#"><img width="75%" height="auto" src="https://barbgordonit.files.wordpress.com/2023/03/batgirl-coding.png" height="150px"/></a>
-<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/62305157/224213518-b61eab3d-2230-439b-8aba-69cb70107720.png" width="30px">, I'm Barb!</h1>
+<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/62305157/224213518-b61eab3d-2230-439b-8aba-69cb70107720.png" width="30px"> I'm Barb Gordon!
+
 </p>
 <h3 align="center">I'm an Automation Architect and Full Stack Developer!</h3>
 
@@ -26,18 +27,23 @@ Contact me if you'd like for me to analyze your manual test cases and developing
 <!-- - 🔭 I have been working as an Automation Architect and Full Stack Developer collectively for ~30 years!** --> Here are just some of the <b>GREAT</b> companies that I've worked for:
 <p>
 <img height="50" src ="https://barbgordonit.files.wordpress.com/2022/10/lilly.jpg"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/bcf-1.jpg"/>
-<img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/mcd-1.png"/> <img height="75" src = "https://barbgordonit.files.wordpress.com/2023/03/sogeti.png"/><img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/apex-systems-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/ncr-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/cdc-1.png"/> <img height="50" src="https://barbgordonit.files.wordpress.com/2023/03/chick-fil-a-logo-1.png"/> 
+<img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/mcd-1.png"/> <img height="80" src = "https://barbgordonit.files.wordpress.com/2023/03/sogeti.png"/><img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/apex-systems-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/ncr-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/cdc-1.png"/> <img height="50" src="https://barbgordonit.files.wordpress.com/2023/03/chick-fil-a-logo-1.png"/> 
  <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/cisco-1.jpg"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/ey-logo-1.png"/>
  <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/motorola-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/fema-1.png"/>
  <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/usda-1.png"/>
-  <img height="50" src = "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg"/>
-  
-  
+ <img height="50" src = "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/vaticahealth.webp"/> 
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/apple.jpg"/>  
+ <img height="75" src = "https://barbgordonit.files.wordpress.com/2023/03/blackbook.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/cox.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/t-mobile_new_logo_primary_rgb_m-on-w.jpg"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/att.jpeg"/>
+ 
 </p>
 
 - 🤎 I enjoy helping companies reach their goals! What's your mission statement?
 
-**Note: I am writing a book about my IT career! It has TRULY been a journey of joy!!!**
+**Note: I am writing a book about my IT career! It IS TRULY been a journey of joy!!!**
 
 - 👯 I enjoy developing **Automation Frameworks from scratch written in Python, JavaScript, Nodejs, and Java!**
 
@@ -91,9 +97,8 @@ Contact me if you'd like for me to analyze your manual test cases and developing
     <br/>
   <p align="left" style="margin-right:10rem"><a href="https://github.com/nurahmed123/github-readme-stats"><img alt="Barb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><p/>
   <br/>
-  <b>Note: I enjoy coding in many different programming languages!<b>
-
-<br/>
+  
+  <b>Note: I enjoy coding in many different programming languages<b>
 
 
 ## I'd love to hear from you!
