@@ -94,7 +94,7 @@ Contact me if you'd like for me to analyze your manual test cases and developing
 ## 📊 My Github Stats
 
   <br/>
-    <p align="left"><a href="https://github.com/nurahmed123/github-readme-stats"><img alt="Barb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=girlCoder8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+    <p align="left"><a href="https://github.com/girlCoder8/github-readme-stats"><img alt="Barb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=girlCoder8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
     <br/>
   <p align="left" style="margin-right:10rem"><a href="https://github.com/girlCoder8/github-readme-stats"><img alt="Barb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girlCoder8&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><p/>
   <br/>
@@ -117,4 +117,4 @@ Contact me if you'd like for me to analyze your manual test cases and developing
 <a href="#">
     <img src="https://komarev.com/ghpvc/?username=girlCoder8">
 </a>
-<a href="https://github.com/girlCoder8?tab=followers"><img src="https://img.shields.io/github/followers/nurahmed123?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/girlCoder8?tab=followers"><img src="https://img.shields.io/github/followers/girlCoder8?label=Followers&style=social" alt="GitHub Badge"></a>
