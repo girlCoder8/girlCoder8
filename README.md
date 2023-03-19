@@ -1,11 +1,12 @@
 <p align="center">
 <a href="#"><img width="75%" height="auto" src="https://barbgordonit.files.wordpress.com/2023/03/batgirl-coding.png" height="150px"/></a>
-<h1 align="center"><div>Hello <span class="waving-hand">👋🏾</span></div> I'm Barb Gordon! 
+<h1 align="center"><div>Hello <span class="waving-hand">👋🏾 I'm Barb Gordon! </span></div>
 
 </p>
 <h3 align="center">I'm an Automation Architect and Full Stack Developer!</h3>
 
-**My passion is working in the IT field!**
+<p align="center"> <b>My passion is working in the Automation and Software Development fields!</b>
+</p>
 
 To find out more about me and the services that I can provide for your company, feel free to <a href="https://barbgordon-com.stackstaging.com"> **view my website** </a> and <a href= "https://befitnhealthy4life.wixsite.com/itfx">**view my other website**</a>.
 
