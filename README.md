@@ -44,7 +44,6 @@ Contact me if you'd like for me to analyze your manual test cases and developing
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/usarmy.png"/>
  
 </p>
-
 - 🤎 I enjoy helping companies reach their goals! What's your mission statement?
 
 **Note: I am writing a book about my IT career! It IS TRULY been a journey of joy!!!**
@@ -116,8 +115,10 @@ Contact me if you'd like for me to analyze your manual test cases and developing
 
 </p>
 
-## ❤ Views and Followers
+<p align = "left"><br>You can buy me a Smoothie, if you like!</br><img align="left" src="https://skprod.objects.frb.io/images/smoothies/cups-ingredients/_productWithIngredient/sk-take-a-break-grean-tea-tango-with-ingredients.png" height="150" width="210" alt="girlCoder8"/></a><br><br>
+<br>
+❤ Thank you in advance!</p> 
 <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=girlCoder8">
-</a>
+    <img src="https://komarev.com/ghpvc/?username=girlCoder8"> 
+</a></br>
 <a href="https://github.com/girlCoder8?tab=followers"><img src="https://img.shields.io/github/followers/girlCoder8?label=Followers&style=social" alt="GitHub Badge"></a>
