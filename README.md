@@ -1,7 +1,6 @@
-
 <p align="center">
 <a href="#"><img width="75%" height="auto" src="https://barbgordonit.files.wordpress.com/2023/03/batgirl-coding.png" height="150px"/></a>
-<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/62305157/224213518-b61eab3d-2230-439b-8aba-69cb70107720.png" width="30px"> I'm Barb Gordon!
+<h1 align="center">Hello <span class="wave"><img src="https://user-images.githubusercontent.com/62305157/224213518-b61eab3d-2230-439b-8aba-69cb70107720.png" width="30px"> I'm Barb Gordon! </span></h1>
 
 </p>
 <h3 align="center">I'm an Automation Architect and Full Stack Developer!</h3>
