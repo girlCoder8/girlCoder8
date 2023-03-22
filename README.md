@@ -46,7 +46,7 @@ Contact me if you'd like for me to analyze your manual test cases and developing
 </p>
 - 🤎 I enjoy helping companies reach their goals! What's your mission statement?
 
-**Note: I am writing a book about my IT career! It IS TRULY been a journey of joy!!!**
+**Note: I am writing a book about my IT career! It has TRULY been a journey of joy!!!**
 
 - 👯 I enjoy developing **Automation Frameworks from scratch written in Python, JavaScript, Nodejs, and Java!**
 
