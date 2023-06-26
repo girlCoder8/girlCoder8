@@ -13,7 +13,7 @@ To find out more about me and the services that I can provide for your company, 
 ****
 
 **👇🏾👇🏾
-Contact me if you'd like for me to analyze your manual test cases and developing an automation framework from scratch.** 
+Contact me if you'd like for me to analyze your manual test cases and develop an automation framework from scratch.** 
 
 - 📫 If you're interested, I can be reached at: **befitnhealthy4life@gmail.com**. 
 
