@@ -50,7 +50,7 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
 
 - 👯 I enjoy developing **Automation Frameworks from scratch written in Python, JavaScript, Nodejs, and Java!**
 
-- 📫 I can be reached via **itrealestate8@gmail.com** 
+- 📫 I can be reached via **befitnhealthy4life@gmail.com** 
 
 - ⚡ Fun fact about me **I lived in Germany for 6 years! Ich sprech Deutsche und je parle Francais!**
 
