@@ -30,6 +30,7 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
 <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/mcd-1.png"/> <img height="80" src = "https://barbgordonit.files.wordpress.com/2023/03/sogeti.png"/><img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/apex-systems-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/ncr-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/cdc-1.png"/> <img height="50" src="https://barbgordonit.files.wordpress.com/2023/03/chick-fil-a-logo-1.png"/> 
  <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/cisco-1.jpg"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/ey-logo-1.png"/>
  <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/motorola-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/fema-1.png"/>
+ <img height="50" src="https://barbgordonit.files.wordpress.com/2023/08/caci.png"/>
  <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/usda-1.png"/>
  <img height="50" src = "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/vaticahealth.webp"/> 
