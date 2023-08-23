@@ -1,6 +1,7 @@
 <p align="center">
 <a href="#"><img width="75%" height="auto" src="https://barbgordonit.files.wordpress.com/2023/03/batgirl-coding.png" height="150px"/></a>
-<h1 align="center">Hello <span class="waving-hand"> 👋🏾 </span>I'm Barb Gordon! 
+ 
+<h1 class align="center">Hello <span class="animate-waving-hand"> 👋🏾 </span>I'm Barb Gordon! </h1>
 
 </p>
 <h3 align="center">I'm an Automation Architect and Full Stack Developer!</h3>
