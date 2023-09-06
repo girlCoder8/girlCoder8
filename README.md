@@ -39,6 +39,9 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
  <img height="75" src = "https://barbgordonit.files.wordpress.com/2023/03/blackbook.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/cox.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/centurahealth.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/agco-logo.jpg"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/gotoagile-logo.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/harland-clark-logo.jpeg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/t-mobile_new_logo_primary_rgb_m-on-w.jpg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/att.jpeg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/bechtel.png"/>
