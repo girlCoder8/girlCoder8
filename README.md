@@ -37,11 +37,19 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
  <img height="80" src = "https://barbgordonit.files.wordpress.com/2023/03/blackbook.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/cox.png"/>
  <img height="50" src = "[https://barbgordonit.files.wordpress.com/2023/03/centurahealth.png](https://barbgordonit.files.wordpress.com/2023/09/commonspirit-health-logo.png)"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/csh.png"/>
  <img height="70" src = "https://barbgordonit.files.wordpress.com/2023/09/agco-logo.jpg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/gotoagile-logo.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/harland-clark-logo.jpeg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/t-mobile_new_logo_primary_rgb_m-on-w.jpg"/>
+ <img height="50" src = "[https://barbgordonit.files.wordpress.com/2023/09/verizon.png](https://barbgordonit.files.wordpress.com/2023/09/verizon-1.webp)"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/att.jpeg"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/teksys.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/ng.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/fiserv.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/ng.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/cf.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/bes.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/bechtel.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/doe.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/usarmy.png"/>
