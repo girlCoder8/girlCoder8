@@ -45,6 +45,8 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/verizon.jpg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/att.jpeg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/teksys.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/snhu.png"/>
+ <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/uophx.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/ng.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/fiserv.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/cf.png"/>
