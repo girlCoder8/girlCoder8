@@ -9,8 +9,6 @@
 <p align="center"> <b>My passion is working in the Automation and Software Development fields!</b>
 </p>
 
-To find out more about me and the services that I can provide for your company, feel free to view <a href="https://barbgordon-com.stackstaging.com"> **my website** </a> and view <a href= "https://befitnhealthy4life.wixsite.com/itfx">**my other website**</a>.
-
 ****
 
 **👇🏾👇🏾
