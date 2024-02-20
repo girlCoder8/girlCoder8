@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">I'm a Sr. Solutions Architect and Full Stack Web Developer!</h3>
 
-<p align="center"> <b>My passion is working in the Automation and Software Development fields!</b>
+<p align="center"> <b>My passion is designing solutions for companies and working on Software Development projects!</b>
 </p>
 
 ****
