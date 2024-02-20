@@ -4,7 +4,7 @@
 <h1 class align="center">Hello <span class="wave-animation"> 👋🏾 </span>I'm Barb Gordon! </h1>
 
 </p>
-<h3 align="center">I'm an Automation Architect and Full Stack Web Developer!</h3>
+<h3 align="center">I'm a Sr. Solutions Architect and Full Stack Web Developer!</h3>
 
 <p align="center"> <b>My passion is working in the Automation and Software Development fields!</b>
 </p>
