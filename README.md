@@ -35,7 +35,7 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
  <img height="30" src = "https://barbgordonit.files.wordpress.com/2023/03/vaticahealth.webp"/> 
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/apple.jpg"/>  
  <img height="80" src = "https://barbgordonit.files.wordpress.com/2023/03/blackbook.png"/>
- <img height="50" src = "http://barbgordon-com.stackstaging.com/wp-content/uploads/2024/05/autotrader.jpeg"/>
+ <img height="70" src = "http://barbgordon-com.stackstaging.com/wp-content/uploads/2024/05/autotrader.jpeg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/cox.png"/>
  <img height="50" src = "[https://barbgordonit.files.wordpress.com/2023/03/centurahealth.png](https://barbgordonit.files.wordpress.com/2023/09/commonspirit-health-logo.png)"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/csh.png"/>
