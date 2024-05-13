@@ -23,7 +23,7 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
 
 ## 👧🏽 About Me
 
-<!-- - 🔭 I have been working as an Automation Architect and Full Stack Developer collectively for ~30 years!** --> Here are just some of the <b>GREAT</b> companies that I've worked for:
+<!-- - 🔭 I have been working as an Automation Architect and Full Stack Developer collectively for ~30+ years!** --> Here are just some of the <b>GREAT</b> companies that I've worked for:
 <p>
 <img height="50" src ="https://barbgordonit.files.wordpress.com/2022/10/lilly.jpg"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/bcf-1.jpg"/>
 <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/mcd-1.png"/> <img height="80" src = "https://barbgordonit.files.wordpress.com/2023/03/sogeti.png"/><img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/apex-systems-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/ncr-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/cdc-1.png"/> <img height="50" src="https://barbgordonit.files.wordpress.com/2023/03/chick-fil-a-logo-1.png"/> 
@@ -35,6 +35,7 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
  <img height="30" src = "https://barbgordonit.files.wordpress.com/2023/03/vaticahealth.webp"/> 
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/apple.jpg"/>  
  <img height="80" src = "https://barbgordonit.files.wordpress.com/2023/03/blackbook.png"/>
+ <img height="50" src = "http://barbgordon-com.stackstaging.com/wp-content/uploads/2024/05/autotrader.jpeg"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/cox.png"/>
  <img height="50" src = "[https://barbgordonit.files.wordpress.com/2023/03/centurahealth.png](https://barbgordonit.files.wordpress.com/2023/09/commonspirit-health-logo.png)"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/09/csh.png"/>
