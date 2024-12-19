@@ -59,6 +59,7 @@ Contact me if you'd like for me to analyze your manual test cases and develop an
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/doe.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/usarmy.png"/>
  <img height="100" src = "http://barbgordon-com.stackstaging.com/wp-content/uploads/2024/05/rheinmain.png"/> 
+ <img height="50" src = https://static.wixstatic.com/media/371947_f1fb68e8656b49828a92ab05f557903a~mv2.png"/>
 </p>
 - 🤎 I enjoy helping companies reach their goals! What's your mission statement?
 
