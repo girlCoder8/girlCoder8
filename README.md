@@ -12,7 +12,7 @@
 ****
 
 **👇🏾👇🏾
-Contact me if you'd like for me to analyze your manual test cases and develop an automation framework from scratch.** 
+Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mobile, API applications and develop an automation framework from scratch.** 
 
 - 📫 If you're interested, I can be reached at: **befitnhealthy4life@gmail.com**. 
 
