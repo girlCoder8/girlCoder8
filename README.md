@@ -69,7 +69,7 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
 
 - 📫 I can be reached via **befitnhealthy4life@gmail.com** 
 
-- ⚡ Fun fact about me **I lived in Germany for 6 years! Ich sprech Deutsche und je parle Francais!**
+- ⚡ Fun fact about me **I lived in Germany for 6 years and Ich sprech Deutsche und je parle Francais!**
 
 
 ## 🚀 Languages and Tools:
