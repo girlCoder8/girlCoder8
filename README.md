@@ -16,14 +16,14 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
 
 - 📫 If you're interested, I can be reached at: **befitnhealthy4life@gmail.com**. 
 
-**I will be more than happy to build an automation framework from scratch! Let's Talk!**
+**I will be more than happy to help you supercede your goals! Let's Talk!**
 
 
 ****
 
 ## 👧🏽 About Me
 
-<!-- - 🔭 I have been working as an Automation Architect and Full Stack Developer collectively for ~30+ years!** --> Here are just some of the <b>GREAT</b> companies that I've worked for:
+<!-- - 🔭 I have been working as an Automation Architect and Full Stack Developer collectively for ~30+ years!** --> Here are just some of the <b>PHENOMENAL</b> companies that I've worked for:
 <p>
 <img height="70" src ="https://barbgordonit.files.wordpress.com/2022/10/lilly.jpg"/> <img height="70" src ="https://barbgordonit.files.wordpress.com/2023/03/bcf-1.jpg"/>
 <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/mcd-1.png"/> <img height="80" src = "https://barbgordonit.files.wordpress.com/2023/03/sogeti.png"/><img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/apex-systems-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/ncr-1.png"/> 
@@ -65,7 +65,7 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
 
 **Note: I am writing a book about my IT career! It has TRULY been a journey of joy!!!**
 
-- 👯 I enjoy developing **Automation Frameworks from scratch written in Python, JavaScript, Nodejs, and Java!**
+- 👯 I enjoy developing **Automation Frameworks from scratch written in Python, JavaScript/TypeScript, Nodejs, and Java!**
 
 - 📫 I can be reached via **befitnhealthy4life@gmail.com** 
 
