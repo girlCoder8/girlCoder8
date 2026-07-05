@@ -136,6 +136,12 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <p align="left">
     <a href="https://github.com/girlCoder8/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Barb's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=girlCoder8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -171,9 +177,3 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
     <img src="https://komarev.com/ghpvc/?username=girlCoder8"> 
 </a></br>
 <a href="https://github.com/girlCoder8?tab=followers"><img src="https://img.shields.io/github/followers/girlCoder8?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
