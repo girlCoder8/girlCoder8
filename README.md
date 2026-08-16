@@ -144,7 +144,7 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=girlCoder8&rank_icon=github&custom_title=Barb%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=omni)](https://github-stats-extended.vercel.app/api?username=girlCoder8&rank_icon=github&custom_title=Barb%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=omni)
   
-  <b>Note: I enjoy coding in many different programming languages<b>
+  <b>Note: I enjoy coding in many different programming languages!<b>
 
 ## I'd love to hear from you!
 <p align="left">
@@ -154,13 +154,4 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
 <a href = "https://www.instagram.com/girlCoder8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/girlCoder8"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/girlCoder8/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-
 </p>
-
-<p align = "left"><br>You can buy me a Smoothie, if you like!</br><img align="left" src="https://skprod.objects.frb.io/images/smoothies/cups-ingredients/_productWithIngredient/sk-take-a-break-grean-tea-tango-with-ingredients.png" height="150" width="210" alt="girlCoder8"/></a><br><br>
-<br>
-❤ Thank you in advance!</p> 
-<a href="#">
-    <img src="https://komarev.com/ghpvc/?username=girlCoder8"> 
-</a></br>
-<a href="https://github.com/girlCoder8?tab=followers"><img src="https://img.shields.io/github/followers/girlCoder8?label=Followers&style=social" alt="GitHub Badge"></a>
