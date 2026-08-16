@@ -140,18 +140,11 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="left">
-    <a href="https://github.com/girlCoder8/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Barb's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=girlCoder8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My Github Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=girlCoder8&rank_icon=github&custom_title=Barb%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=omni)](https://github-stats-extended.vercel.app/api?username=girlCoder8&rank_icon=github&custom_title=Barb%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=omni)
   
   <b>Note: I enjoy coding in many different programming languages<b>
-
 
 ## I'd love to hear from you!
 <p align="left">
