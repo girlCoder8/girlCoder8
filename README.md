@@ -71,6 +71,7 @@ Contact me if you'd like for me to develop AI solutions, analyze your Web, Mobil
  <img height="50" src = "https://static.wixstatic.com/media/371947_b0b0d2e008154ec7a0d9c5efb8d460e6~mv2.png"/>
  <img height="50" src = "https://static.wixstatic.com/media/371947_a85acdce10a84f2297f5a8606e87c2c3~mv2.png"/>
  <img height="50" src = "https://static.wixstatic.com/media/371947_77a643783874489d924e8895fc4f5eb3~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_225c25c32d114462b7f2e48f61de1056~mv2.png"/>
  <img height="100" src = "http://barbgordon-com.stackstaging.com/wp-content/uploads/2024/05/rheinmain.png"/> 
  <img height="50" src = "https://static.wixstatic.com/media/371947_0e24a2baff2847749e66c288952280a5~mv2.png"/>
  <img height="100" src = "https://static.wixstatic.com/media/371947_f1fb68e8656b49828a92ab05f557903a~mv2.png"/>
