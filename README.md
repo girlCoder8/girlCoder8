@@ -12,7 +12,7 @@
 ****
 
 **👇🏾👇🏾
-Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mobile, API applications and develop an automation framework from scratch.** 
+Contact me if you'd like for me to develop AI solutions, analyze your Web, Mobile, API applications and develop an automation framework from scratch and integrate an AI solution.** 
 
 - 📫 If you're interested, I can be reached at: **befitnhealthy4life@gmail.com**. 
 
@@ -58,6 +58,19 @@ Contact me if you'd like for me to develop AI solutions, or analyze your Web, Mo
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/bechtel.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/doe.png"/>
  <img height="50" src = "https://barbgordonit.files.wordpress.com/2023/03/usarmy.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_fdb00a3f721f44b2bee8ee5e71e4ecca~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_bd049dcaafd848af86e2176b3bbe15ff~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_b5d1cca056ba4fe1a2c57cc70403001d~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_3d6acc902c1c4e87b5caff5c8a8941c0~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_9249e85133ee44b89499fcc3d20e936c~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_52195859ebaf43f2a000f72a3970ea79~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_450a2ab52a044f1885a2193296efffeb~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_7da881143de44d0ba785c34523b14952~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_3d6acc902c1c4e87b5caff5c8a8941c0~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_40898715703445f58663f4301ed5491d~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_b0b0d2e008154ec7a0d9c5efb8d460e6~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_a85acdce10a84f2297f5a8606e87c2c3~mv2.png"/>
+ <img height="50" src = "https://static.wixstatic.com/media/371947_77a643783874489d924e8895fc4f5eb3~mv2.png"/>
  <img height="100" src = "http://barbgordon-com.stackstaging.com/wp-content/uploads/2024/05/rheinmain.png"/> 
  <img height="50" src = "https://static.wixstatic.com/media/371947_0e24a2baff2847749e66c288952280a5~mv2.png"/>
  <img height="100" src = "https://static.wixstatic.com/media/371947_f1fb68e8656b49828a92ab05f557903a~mv2.png"/>
