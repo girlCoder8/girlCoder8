@@ -23,7 +23,7 @@ Contact me if you'd like for me to develop AI solutions, analyze your Web, Mobil
 
 ## 👧🏽 About Me
 
-<!-- - 🔭 I have been working as an Automation Architect and Full Stack Developer collectively for ~30+ years!** --> Here are just some of the <b>PHENOMENAL</b> companies that I've worked for:
+<!-- - 🔭 I have been working as an AI Automation Architect and Full Stack Developer collectively for ~30+ years!** --> Here are just some of the <b>PHENOMENAL</b> companies that I've worked for:
 <p>
 <img height="70" src ="https://barbgordonit.files.wordpress.com/2022/10/lilly.jpg"/> <img height="70" src ="https://barbgordonit.files.wordpress.com/2023/03/bcf-1.jpg"/>
 <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/mcd-1.png"/> <img height="80" src = "https://barbgordonit.files.wordpress.com/2023/03/sogeti.png"/><img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/apex-systems-1.png"/> <img height="50" src ="https://barbgordonit.files.wordpress.com/2023/03/ncr-1.png"/> 
